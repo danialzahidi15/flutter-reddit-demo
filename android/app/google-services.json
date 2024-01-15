@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "48633089480",
+    "project_id": "reddit-clone-b6eb1",
+    "storage_bucket": "reddit-clone-b6eb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48633089480:android:c1ac6a57656cf4447844fd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_danthocode_reddit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48633089480-l1gu1dpjp53r9t233jjtu05g06dueq1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6PRIA5Kt4UVg6oP6rpqo7IZmaucKEZJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48633089480-l1gu1dpjp53r9t233jjtu05g06dueq1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48633089480-g643apam3keqds5qs9mcup2h51lmsnu2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterDanthocodeReddit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48633089480:android:97ddbbb20fa510307844fd",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48633089480-l1gu1dpjp53r9t233jjtu05g06dueq1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6PRIA5Kt4UVg6oP6rpqo7IZmaucKEZJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48633089480-l1gu1dpjp53r9t233jjtu05g06dueq1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48633089480-g643apam3keqds5qs9mcup2h51lmsnu2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterDanthocodeReddit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
